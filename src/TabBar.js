@@ -16,9 +16,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
   },
-  scroll: {
-    overflow: 'scroll',
-  },
   tabbar: {
     backgroundColor: '#2196f3',
     elevation: 4,
